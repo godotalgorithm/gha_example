@@ -1,8 +1,9 @@
 gha_example
 ==============================
 [//]: # (Badges)
-[![GitHub Actions Build Status](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/gha_example/workflows/CI/badge.svg)](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/gha_example/actions?query=workflow%3ACI)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/gha_example/branch/main/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/gha_example/branch/main)
+[![GitHub Actions Build 
+Status](https://github.com/godotalgorithm/gha_example/workflows/CI/badge.svg)](https://github.com/godotalgorithm/gha_example/actions?query=workflow%3ACI)
+[![codecov](https://codecov.io/gh/godotalgorithm/gha_example/branch/main/graph/badge.svg)](https://codecov.io/gh/godotalgorithm/gha_example/branch/main)
 
 
 A short description of the project (less than one line).
