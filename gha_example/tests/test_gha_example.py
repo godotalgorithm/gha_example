@@ -5,7 +5,6 @@ Unit and regression test for the gha_example package.
 # Import package, test suite, and other packages as needed
 import sys
 
-import mock
 import pytest
 
 import gha_example
